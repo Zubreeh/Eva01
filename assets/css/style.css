@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: auto;
+}
+body{
+    color: lightgray;
+    background: rgb(36, 36, 37);
+}
+header{
+    color: lightgray;
+    width: 99%;
+    height: 200px;
+    background-color: crimson;
+    border: 3px solid rgb(182, 18, 50);
+    text-align: right;
+    line-height: 200px;
+}
+footer{
+    padding: 5px;
+
+}
+#img1{
+    width: 250px;
+    height: 200px;
+    margin-right: 1000px;
+}
+.links{
+    color: rgb(255, 38, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 1000px;
+    margin-left: 500px;  
+    margin-bottom: 50px;
+
+}
