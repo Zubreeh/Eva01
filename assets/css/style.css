@@ -6,23 +6,18 @@ body{
     color: lightgray;
     background: rgb(36, 36, 37);
 }
-header{
+#header{
     color: lightgray;
-    width: 99%;
-    height: 200px;
     background-color: crimson;
     border: 3px solid rgb(182, 18, 50);
+    line-height: 50px;
+}
+#name{
     text-align: right;
-    line-height: 200px;
 }
 footer{
     padding: 5px;
 
-}
-#img1{
-    width: 250px;
-    height: 200px;
-    margin-right: 1000px;
 }
 .links{
     color: rgb(255, 38, 0);
