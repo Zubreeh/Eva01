@@ -2,22 +2,30 @@
     margin: 0px;
     padding: auto;
 }
+
 body{
     color: lightgray;
     background: rgb(36, 36, 37);
 }
 #header{
+    height: 200px;
     color: lightgray;
     background-color: crimson;
     border: 3px solid rgb(182, 18, 50);
-    line-height: 50px;
 }
-#name{
-    text-align: right;
+#img1{
+     height: 150px;
+     margin-top:20px;
+     margin-left: 20px;
+}
+#anuncio{
 }
 footer{
     padding: 5px;
 
+}
+.border{
+    border: 1px solid red !important;
 }
 .links{
     color: rgb(255, 38, 0);
@@ -26,4 +34,7 @@ footer{
     margin-left: 500px;  
     margin-bottom: 50px;
 
+}
+.link{
+    color: rgb(50, 50, 255);
 }
