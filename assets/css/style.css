@@ -7,18 +7,31 @@ body{
     color: lightgray;
     background: rgb(36, 36, 37);
 }
-#header{
+.header{
     height: 200px;
     color: lightgray;
     background-color: crimson;
     border: 3px solid rgb(182, 18, 50);
 }
+.anuncio{
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 5%;
+    align-content: center;
+    border:2px solid crimson;
+    margin-top: 3%;
+    height: 15%;
+    background-color:rgb(253, 24, 70);
+
+
+}
+.imagenes{
+    margin-top: 3%;
+}
 #img1{
      height: 150px;
      margin-top:20px;
      margin-left: 20px;
-}
-#anuncio{
 }
 footer{
     padding: 5px;
@@ -37,4 +50,44 @@ footer{
 }
 .link{
     color: rgb(50, 50, 255);
+}
+.texto1{
+    padding: 2%;
+}
+footer{
+    margin-right: 2%;
+}
+
+footer img{
+    width: 60%
+    
+}
+
+.contenedorImagen{
+    margin: 2%;
+}
+
+.secciones p{
+    font-weight: bold;
+    padding-left: 30%;
+    font-size: 1.5rem;
+}
+a{
+    font-size: 1.4rem;
+}
+
+.contacto p{
+    font-weight: bold;
+    padding-left: 2%;
+    font-size: 1.5rem;
+}
+
+button{
+    width: 100%;
+    margin-top: 1%;
+}
+
+textarea{
+    margin-top: 1%;
+    
 }
